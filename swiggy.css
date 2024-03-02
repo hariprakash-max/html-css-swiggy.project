@@ -1,0 +1,43 @@
+.main{
+    float: left;
+    font-size: 20px;
+    padding:80px;
+    padding-left: 100px;
+}
+
+
+.but button{
+    width:100px;
+    height:30px;
+    background-color: rgb(238, 233, 234);
+    color: white;
+    font-size: 17px;
+    border:none;
+    
+    
+}
+.inp input{
+    width:400px;
+    height:40px;
+    background-color:white;
+    border:1px solid orange;
+    outline:none;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.inp button{
+    width:100px;
+    height:40px;
+    background-color: rgb(249,61,92);
+    color: white;
+    font-size: 17px;
+    border:none;
+    overflow: hidden;
+}
+.app button{
+    margin-left: 10px;
+    
+}
+    
